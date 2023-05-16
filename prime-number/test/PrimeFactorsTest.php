@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use APP\PrimeFactors;
+use App\PrimeFactors;
 
 class PrimeFactorsTest extends TestCase
 {
